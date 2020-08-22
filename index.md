@@ -8,9 +8,9 @@ region: Asia
 ---
 
 ## Welcome
-Welcome to the Taiwan Chapter homepage. The Chapter Board is <a href="mailto:yilang.tsai@owasp.org">Yi-Lang Tsai</a> and <a href="mailto:henry@owasp.org">Henry Hu</a>. Follow Chapter news on Facebook Group. Welcome to join us. (https://www.facebook.com/groups/owasptaiwan) 
+Welcome to the Taiwan Chapter homepage. The Chapter Board is <a href="mailto:yilang.tsai@owasp.org">Yi-Lang Tsai</a> and <a href="mailto:henry.hu@owasp.org">Henry Hu</a>. Follow Chapter news on Facebook Group. Welcome to join us. (https://www.facebook.com/groups/owasptaiwan) 
 
-歡迎來到 OWASP 台灣分會網頁，目前台灣分會由 <a href="mailto:yilang.tsai@owasp.org">Yi-Lang Tsai</a> and <a href="mailto:henry@owasp.org">Henry Hu</a> 共同推動在地運作。想要掌握與知道最新的訊息，歡迎加入 Facebook 的社群。(https://www.facebook.com/groups/owasptaiwan) 
+歡迎來到 OWASP 台灣分會網頁，目前台灣分會由 <a href="mailto:yilang.tsai@owasp.org">Yi-Lang Tsai</a> and <a href="mailto:henry.hu@owasp.org">Henry Hu</a> 共同推動在地運作。想要掌握與知道最新的訊息，歡迎加入 Facebook 的社群。(https://www.facebook.com/groups/owasptaiwan) 
 
 ## Events
 台灣分會致力於 OWASP 重要研成果推廣，不定期辦理 OWASP 社群聚會，透過交流活動以及辦理研討會，提供台灣對於 OWASP 國際資安組織發展有興趣者，能夠瞭解與掌握 OWASP 所推動之全球重點議題，想知道更多的活動訊息，請加入 OWASP Taiwan Chapter Meetup - https://www.meetup.com/Taipei-OWASP-Meetup-Group/
